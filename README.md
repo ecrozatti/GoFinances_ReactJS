@@ -14,17 +14,15 @@
 </h1>
 
 ## :page_with_curl: Sobre
-![GitHub language count](https://img.shields.io/github/languages/count/ecrozatti/GoFinances_NodeJS)
-![GitHub top language](https://img.shields.io/github/languages/top/ecrozatti/GoFinances_NodeJS)
-![GitHub repo size](https://img.shields.io/github/repo-size/ecrozatti/GoFinances_NodeJS)
-![GitHub](https://img.shields.io/github/license/ecrozatti/GoFinances_NodeJS)
-![GitHub last commit](https://img.shields.io/github/last-commit/ecrozatti/GoFinances_NodeJS)
+![GitHub language count](https://img.shields.io/github/languages/count/ecrozatti/GoFinances_ReactJS)
+![GitHub top language](https://img.shields.io/github/languages/top/ecrozatti/GoFinances_ReactJS)
+![GitHub repo size](https://img.shields.io/github/repo-size/ecrozatti/GoFinances_ReactJS)
+![GitHub](https://img.shields.io/github/license/ecrozatti/GoFinances_ReactJS)
+![GitHub last commit](https://img.shields.io/github/last-commit/ecrozatti/GoFinances_ReactJS)
 
-Este repositório contém aplicação web ReactJS com TypeScript, como front-end da aplicação GoFinances.
+Este repositório contém a aplicação web GoFinances. Projeto frontend usando ReactJS com TypeScript, rotas e envio de arquivos por formulário. A aplicação se conecta a API criada no repositório [GoFinances_NodeJS](https://github.com/ecrozatti/GoFinances_NodeJS) que permite a importação de arquivo CSV para gerar novos registros no banco de dados.
 
 GoFinances é uma aplicação para gestão de transações financeiras, onde o usuário consegue informar todas suas entradas e saídas, assim como obter seu saldo disponível.
-
-Além da maneira convencional de gravar transação por transação, a aplicação também disponibiliza uma opção para importação de arquivo CSV com os lançamentos do usuário.
 
 ## :computer: Tecnologias
 Esse projeto foi desenvolvido no Bootcamp GoStack da Rocketseat com as seguintes tecnologias:
@@ -44,8 +42,6 @@ Esse projeto foi desenvolvido no Bootcamp GoStack da Rocketseat com as seguintes
 
 ## :books: Requisitos
 - Ter [**Git**](https://git-scm.com/) para clonar o projeto.
-- Ter [**Node.js**](https://nodejs.org/en/) instalado.
-- Ter [**Docker**](https://www.docker.com/) rodando um container PostgreSQL.
 
 ## :rocket: Começando
 ``` bash
